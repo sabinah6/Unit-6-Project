@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    color: black;
+    font-family: 'Staatliches', sans-serif;
+}
+
+body{
+    background-image: url("https://i.kym-cdn.com/entries/icons/facebook/000/040/289/cover6.jpg");
+    background-size: 100%;
+}
+
+.title {
+    font-size: 50px;
+    background-color: red;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.img2{
+    width: 500px;
+
+}
+.img3, .img4, .img5, .img6{
+    width: 500px;
+    display:none;
+}
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.clue-container{
+    color: black;
+    display: none;
+    
+}
+
+.button{
+    display: none;
+}
